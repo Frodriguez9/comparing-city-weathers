@@ -3,13 +3,6 @@
 A program that compares weather values for two different
 locations on earth.
 
-THE PORPUSE OF THE PROGRAM IS TO DEMONSTRATE MY ABILITY TO:
-
-- Use APIs
-- Read and manipulate JSON data
-- Handle errors. e.g: Failure to connect to API server.
-- Build data frames
-
 '''
 
 # TODO: - Refactor the program_dialog function. Make another function to assign
