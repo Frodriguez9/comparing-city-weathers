@@ -1,8 +1,6 @@
 '''
-
 A program that compares weather values for two different
 locations on earth.
-
 '''
 
 # TODO: - Refactor the program_dialog function. Make another function to assign
