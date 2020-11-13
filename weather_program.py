@@ -175,6 +175,8 @@ def program_dialog():
         print("\nERROR 404: Could not connect to server. "
               "Is your Internet Connection Okay? \n")
 
+#Testing git commands
+
 
 if __name__ == '__main__':
     program_dialog()
